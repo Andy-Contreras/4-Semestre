@@ -84,7 +84,7 @@ while alternativa != "3":
                     elif alternativa1 == "3": 
                         os.system("cls")
                         for metod in Usuario.usuario:
-                            metod["Nombre"] = "Alejandro"
+                            metod["Nombre"] = "Ramon"
                             print(metod)
 
                          
@@ -165,13 +165,7 @@ while alternativa != "3":
         
                        
 
-                    elif alternativa1 == "3":
-                        pass
-                        
 
-
-                    elif alternativa1 == "4":
-                        pass
                     elif alternativa1 == "5":
                         print("Salir del ")
 
