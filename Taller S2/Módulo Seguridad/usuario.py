@@ -3,7 +3,7 @@ os.system("cls")
 
 class Usuario: 
     
-    usuario =[{"Nombre":"Dan","Apellido":"Hernan","Cédula":"123131243","Dirección":"Milagro"}]
+    usuario =[{"Nombre":"Andy","Apellido":"Contreras","Cédula":"1207073402","Dirección":"Babahoyo"}]
 
     def __init__(self,nombre,apellido,cédula, direccion):
         self.nombre = nombre
